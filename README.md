@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="assets/banner.svg" alt="Gautam Gupta: building open-source apps and developer tools" width="100%">
+<img src="assets/banner.svg" alt="Gautam Gupta: tech enthusiast who builds whatever sparks an idea" width="100%">
 
-<a href="https://github.com/gautamgpt1"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=58A6FF&center=true&vCenter=true&width=600&lines=Encrypted+calls+over+Bluetooth+%E2%80%94+no+internet+needed;Tools+for+Claude+Code%2C+Codex+%26+Gemini+CLI+users;Windows+desktop+apps+in+C%23+%2F+WinUI+3;Always+shipping+something+new+%F0%9F%9A%80" alt="Typing intro"></a>
+<a href="https://github.com/gautamgpt1"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=58A6FF&center=true&vCenter=true&width=720&lines=Mobile+%E2%86%92+encrypted+calls+over+Bluetooth%2C+no+internet;Desktop+%E2%86%92+a+crypto+companion+for+Windows;Dev+tools+%E2%86%92+for+Claude+Code%2C+Codex+%26+Gemini+CLI;Next+%E2%86%92+whatever+idea+won%27t+leave+me+alone+%F0%9F%92%A1" alt="Typing intro"></a>
 
 <p>
   <a href="https://www.linkedin.com/in/gautam-gupta11"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>

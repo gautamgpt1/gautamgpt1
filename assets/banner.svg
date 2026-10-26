@@ -39,6 +39,6 @@
 
   <text x="70" y="125" class="title">Gautam Gupta</text>
   <rect x="72" y="145" width="120" height="4" rx="2" fill="url(#accent)"/>
-  <text x="70" y="190" class="sub">Building open-source apps &amp; developer tools</text>
-  <text x="70" y="228" class="tag">offline-first  ·  privacy  ·  dev tools  ·  New Delhi, India</text>
+  <text x="70" y="190" class="sub">Tech enthusiast. I build whatever I can't stop thinking about.</text>
+  <text x="70" y="228" class="tag">mobile  ·  desktop  ·  dev tools  ·  crypto  ·  New Delhi, India</text>
 </svg>
