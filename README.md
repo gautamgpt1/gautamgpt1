@@ -78,10 +78,11 @@ No internet, no SIM, no servers. Built for internet shutdowns, disasters and off
 
 ### ✍️ Latest posts
 
-<!-- BLOG-POST-LIST:START -->- [Building MeshLive: Video calls and live broadcasts without Internet](https://meshlive.hashnode.dev/building-meshlive-video-calls-and-live-broadcasts-without-internet)
+<!-- BLOG-POST-LIST:START -->- [MeshLive 0.4.0: Bluetooth Calls Across Phones and PCs](https://meshlive.hashnode.dev/meshlive-0-4-0-bluetooth-calls-across-phones-and-pcs)
+- [I Got Video Calls Working Over Bluetooth mesh. Now They Work Across Phones and PCs.](https://dev.to/gautamgpt1/i-got-video-calls-working-over-bluetooth-mesh-now-they-work-across-phones-and-pcs-3ogb)
+- [Building MeshLive: Video calls and live broadcasts without Internet](https://meshlive.hashnode.dev/building-meshlive-video-calls-and-live-broadcasts-without-internet)
 - [I built an offline Bluetooth video calling and live streaming app. Here&#39;s what&#39;s new in MeshLive 0.3.0.](https://dev.to/gautamgpt1/i-built-an-offline-bluetooth-video-calling-and-live-streaming-app-heres-whats-new-in-meshlive-14n)
 - [I built an open-source Windows desktop companion for crypto with WinUI 3, Rust and Node](https://dev.to/gautamgpt1/i-built-an-open-source-windows-desktop-companion-for-crypto-with-winui-3-rust-and-node-6gp)
-- [I built MeshLive: video calling and live broadcasting over Bluetooth mesh, without internet &lpar;Open source&rpar;](https://dev.to/gautamgpt1/i-built-meshlive-video-calling-and-live-broadcasting-over-bluetooth-mesh-without-internet-open-1iaf)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ More on [dev.to](https://dev.to/gautamgpt1) and [Hashnode](https://meshlive.hashnode.dev)
