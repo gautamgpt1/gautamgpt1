@@ -22,7 +22,7 @@
 
 <h2><a href="https://github.com/MeshLive">📡 MeshLive</a></h2>
 
-<b>Encrypted voice &amp; video calls and live streams between phones over a Bluetooth mesh.</b><br>
+<b>Encrypted voice &amp; video calls and live streams between phones and laptops over a Bluetooth mesh.</b><br>
 No internet, no SIM, no servers. Built for internet shutdowns, disasters and off-grid use.
 
 <br><br>
@@ -34,13 +34,19 @@ No internet, no SIM, no servers. Built for internet shutdowns, disasters and off
 <br>
 
 <a href="https://github.com/MeshLive/meshlive-android"><img src="https://img.shields.io/badge/Android-Kotlin-7F52FF?style=flat-square&logo=android&logoColor=white" alt="Android, Kotlin"></a>
-<a href="https://github.com/MeshLive/meshlive-ios"><img src="https://img.shields.io/badge/iOS-Swift-F05138?style=flat-square&logo=apple&logoColor=white" alt="iOS, Swift"></a>
+<a href="https://github.com/MeshLive/meshlive-apple"><img src="https://img.shields.io/badge/iOS-Swift-F05138?style=flat-square&logo=apple&logoColor=white" alt="iOS, Swift"></a>
 <img src="https://img.shields.io/badge/E2E-Encrypted-2ea44f?style=flat-square&logo=letsencrypt&logoColor=white" alt="End-to-end encrypted">
 <img src="https://img.shields.io/badge/Bluetooth-Mesh-0082FC?style=flat-square&logo=bluetooth&logoColor=white" alt="Bluetooth mesh">
 
 <br><br>
 
-<a href="https://github.com/MeshLive/meshlive-android/releases/latest"><img src="https://img.shields.io/badge/⬇_Download_APK-3DDC84?style=for-the-badge&logoColor=white" alt="Download APK"></a>
+<a href="https://apps.apple.com/app/id6834136798"><img src="https://toolbox.marketingtools.apple.com/api/v2/badges/download-on-the-app-store/black/en-us" alt="Download on the App Store" height="40" align="middle"></a>
+&nbsp;
+<a href="https://play.google.com/store/apps/details?id=io.github.meshlive.app"><img src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" alt="Get it on Google Play" height="60" align="middle"></a>
+
+<br>
+
+<a href="https://meshlive.github.io"><b>meshlive.github.io</b></a>: Windows app, demo videos and more
 
 </div>
 
